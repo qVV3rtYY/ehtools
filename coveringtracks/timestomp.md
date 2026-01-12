@@ -118,7 +118,7 @@ meterpreter > timestomp C:\\ -r
 [*] Blanking directory MACE attributes on C:\
 ```
 
-Before and after screenshots:
+Windows machine point of view before and after screenshots:
 <br><br>
 
 ![Timestomp Before](../pics/timestomp1.png)
